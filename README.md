@@ -11,4 +11,4 @@ listed below are the tester functions
 `testCountryInfo()` - Outputs export information about enetered country
 `testListofExporters()` - Outputs countries that exports the two items entered
 `numOfExporters()` - Outputs number of countries that export entered item
-`bigExporters()` - Outputs number of countries that make more than entered amount from exports. h2 as a note the money amount eneterd is a string with the _$_ and commas icluded e.g $mmm,mmm,mmm,mmm
+`bigExporters()` - Outputs number of countries that make more than entered amount from exports. # As a note the money amount eneterd is a string with the _$_ and commas icluded e.g $mmm,mmm,mmm,mmm
